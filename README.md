@@ -10,6 +10,6 @@ This is a college project developed in b\w April 1st to May 29th as part of a 1 
 
 ## 🚀 What I Learned
 Building this project helped me transition from classroom theory to practical application. Key takeaways included:
-* **Core Tech:** Gained hands-on experience with [List 2-3 main tools/languages used, e.g., Python, React].
-* **Problem Solving:** Learned how to implement [mention one specific feature, e.g., user authentication / database queries].
-* **Version Control:** First introduction to managing a project using Git.
+* **Core Tech:** Gained hands-on experience with Dart and the Flutter framework to build a responsive mobile application.
+* **Problem Solving:** Learned how to implement local data persistence using SharedPreferences to save user inputs and fitness data directly on the device.
+* **Version Control:** First introduction to managing a project using Git, organizing source code, and tracking development progress.
